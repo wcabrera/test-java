@@ -40,28 +40,8 @@ Puedes utilizar herramientas como Postman o cURL para interactuar con la API RES
 
 ## Arquitectura del software
 
-+--------------------------------------------+
-|              Aplicación Spring Boot        |
-|                                            |
-|  +--------------------------+              |
-|  |   Controladores (Controllers)  |       |
-|  +--------------------------+              |
-|                   |                        |
-|                   v                        |
-|  +--------------------------+              |
-|  |    Servicios (Services)    |            |
-|  +--------------------------+              |
-|                   |                        |
-|                   v                        |
-|  +--------------------------+              |
-|  |    Repositorios (Repositories) |        |
-|  +--------------------------+              |
-|                   |                        |
-|                   v                        |
-|  +--------------------------+              |
-|  |    Base de Datos (JPA/Hibernate) |      |
-|  +--------------------------+              |
-|                                            |
+![image](https://github.com/wcabrera/test-java/assets/4590964/5b7aad6a-5603-4da3-a327-39af2419d7d2)
+
 +--------------------------------------------+
 
 
