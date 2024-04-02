@@ -35,7 +35,10 @@ Puedes utilizar herramientas como Postman o cURL para interactuar con la API RES
 
 - `POST /api/usuarios/registro`: Registra un nuevo usuario.
 
-- ...
+
+Ejemplo de la invocación
+![image](https://github.com/wcabrera/test-java/assets/4590964/56076ece-8e56-4aca-b9c3-091575108ded)
+
 
 
 ## Arquitectura del software
