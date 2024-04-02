@@ -47,9 +47,7 @@ Puedes utilizar herramientas como Postman o cURL para interactuar con la API RES
 
 Consulta la documentación de la API generada con Swagger para obtener más detalles sobre los endpoints disponibles.
 
-## Contribución
 
-¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una mejora que sugerir, no dudes en abrir un problema o enviar una solicitud de extracción.
 
 ## Licencia
 
